@@ -17,6 +17,6 @@ The API calls to fetch dog pictures are made using axios.
 
 # Scripting - compare versions:
 
-The code is in the file script.py.
+The code is in the file compare-versions.py.
 
 To run the script, run `python3 compare-versions.py <version1> <version2`
